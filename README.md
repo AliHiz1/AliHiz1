@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Kotlin and Android Studio technologies
 - 📫 You can reach me from LinkedIn, Instagram and Twitter
 - LinkedIn: https://www.linkedin.com/in/alihiz/
-- Instagram, Twitter: @alifromboston
 
 <!---
 AliHiz1/AliHiz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
