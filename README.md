@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Hız
-- 👀 I’m interested in Android and Web Developing and i'm working as a Kotlin Developer
-- 🌱 I’m currently learning Kotlin and Android Studio technologies
-- 📫 You can reach me from LinkedIn, Instagram and Twitter
+- 👀 I’m working as an Android Developer
+- 🌱 I’m currently working on Kotlin and Android technologies
+- 📫 You can reach me from LinkedIn
 - LinkedIn: https://www.linkedin.com/in/alihiz/
 
 <!---
